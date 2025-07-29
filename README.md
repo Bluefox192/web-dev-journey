@@ -143,4 +143,8 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 ---
 
+### 🙏 Credit
+
+Inspired by The Odin Project, FreeCodeCamp, Full Stack Open, and fellow devs.
+
 > *“Consistency beats intensity.”* — Tetap belajar walau sedikit setiap hari 💪
