@@ -15,6 +15,16 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 ---
 
+## 📜 Navigasi Cepat
+
+- [🚀 Tujuan Utama](#-tujuan-utama)
+- [🧭 Roadmap](#-roadmap)
+- [🧱 Progress Overview](#-progress-overview)
+- [🛠️ Highlighted Projects](#-highlighted-projects)
+- [📂 Struktur Repositori](#-struktur-repositori)
+- [💼 Kontak](#-kontak)
+- [🧪 Rencana Otomatisasi](#-rencana-otomatisasi)
+
 ## 🚀 Tujuan Utama
 
 - Membangun pemahaman menyeluruh tentang web development (frontend + backend).
@@ -92,10 +102,17 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 | Proyek               | Keterangan                               | Demo / Repo      |
 |----------------------|------------------------------------------|------------------|
-| Odin Recipes         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
+| Odin Recipes         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-recipes/) |
 | Landing Page         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
 
 ---
+
+## 📜 Sertifikat (Segera)
+
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-In_Progress-yellowgreen)
+![SoloLearn](https://img.shields.io/badge/SoloLearn-In_Progress-blue)
+![FullStackOpen](https://img.shields.io/badge/FullStackOpen-In_Progress-orange)
+![The Odin Project](https://img.shields.io/badge/Odin_Project-Active-green)
 
 ## 📂 Struktur Repositori
 
