@@ -1,6 +1,15 @@
 # 🧠 Web Dev Journey — Blu
 
-Ini adalah dokumentasi pribadi dari perjalanan saya belajar full stack web development. Semua progres, catatan, dan sertifikat dari berbagai platform belajar gratis saya kumpulkan di sini secara terbuka sebagai portofolio pembelajaran dan bukti konsistensi.
+> 🎯 Quest: Become Full Stack Developer  
+> 🧱 Level: Foundation  
+> 📈 XP: Learning HTML, CSS, JavaScript  
+> 🏆 Goal: Build real-world apps & earn certs from trusted platforms
+
+Repositori ini adalah jurnal leveling-ku di dunia coding.  
+Setiap commit = langkah baru. Setiap sertifikat = badge kemajuan.  
+Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualanganku dalam belajar web development.
+
+**No shortcuts, no cheat codes — just pure grind.**
 
 ---
 
