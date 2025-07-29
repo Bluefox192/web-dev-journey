@@ -1,4 +1,6 @@
 # 🧠 Web Dev Journey — Blu
+![GitHub repo size](https://img.shields.io/github/repo-size/bluefox192/web-dev-journey)
+![GitHub last commit](https://img.shields.io/github/last-commit/bluefox192/web-dev-journey)
 
 > 🎯 Quest: Become Full Stack Developer  
 > 🧱 Level: Foundation  
