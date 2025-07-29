@@ -86,6 +86,15 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 ---
 
+## 🛠️ Highlighted Projects
+
+| Proyek               | Keterangan                               | Demo / Repo      |
+|----------------------|------------------------------------------|------------------|
+| Odin Recipes         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
+| Landing Page         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
+
+---
+
 ## 📂 Struktur Repositori
 
 ```bash
