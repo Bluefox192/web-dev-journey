@@ -15,6 +15,12 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 ---
 
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📜 Navigasi Cepat
 
 - [🚀 Tujuan Utama](#-tujuan-utama)
