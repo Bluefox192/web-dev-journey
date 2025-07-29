@@ -70,6 +70,22 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 ---
 
+### 🧱 Progress Overview
+
+**Responsive Web Design (SoloLearn)**  
+`[█--------------] 2%`
+
+**JavaScript Algorithms (freeCodeCamp)**  
+`[█--------------] 3%`
+
+**Full Stack Open**  
+`[---------------] 0%`
+
+**The Odin Project**  
+`[██-------------] 15%`
+
+---
+
 ## 📂 Struktur Repositori
 
 ```bash
