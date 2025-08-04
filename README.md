@@ -110,6 +110,7 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 |----------------------|------------------------------------------|------------------|
 | Odin Recipes         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-recipes/) |
 | Landing Page         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
+| Rock, Paper, and Scissor Game         | Proyek dari TOP Foundations        | [soon] |
 
 ---
 
