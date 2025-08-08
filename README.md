@@ -18,42 +18,6 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:waka-->
 
 ---
@@ -107,8 +71,8 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 | Modul                                        | Status       | Keterangan       |
 |---------------------------------------------|--------------|------------------|
-| Part 0: Web App Fundamentals                 | ⏳ Belajar    |                  |
-| Part 1: React Basics                         | ⏳ Belajar    |                  |
+| Part 0: Web App Fundamentals                 | ⏳ Belum Mulai   |                  |
+| Part 1: React Basics                         | ⏳ Belum Mulai    |                  |
 | Part 2–7: Backend, Testing, GraphQL, CI/CD   | 🔒 Belum Mulai |                  |
 
 ---
