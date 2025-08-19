@@ -81,7 +81,7 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 
 | Course Section                        | Status       | Proyek Utama          |
 |--------------------------------------|--------------|------------------------|
-| Foundations                          | ✅ Selesai    | Landing Page           |
+| Foundations                          | ✅ Selesai    | Landing Page, rock paper and scissors game          |
 | Full Stack JavaScript → HTML/CSS     | ⏳ Belajar    |                        |
 | Full Stack JavaScript → JavaScript   | 🔒 Belum Mulai |                        |
 | Full Stack JavaScript → React        | 🔒 Belum Mulai |                        |
