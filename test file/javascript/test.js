@@ -25,4 +25,22 @@ const mapped = angka.map((haha) => {for(let i = 0; i <= 4; i++){
     let kuadratkan = haha[i] ** 2;
     return kuadratkan;
 }});
-console.log(mapped);
+
+let mahasiswa = {
+    nama : "Blue",
+    NIM : 241810201017,
+    jurusan : "Fisika murni"
+};
+function averageNumber(array){
+    let result = 0;
+    for (let i = 0; i < array.length; i++){
+        result += array[i];
+    }
+    return result % (array.length - 1);
+};
+const angkaTest = [1, 2, 3, 198, 4, 5];
+
+function cariMaksimum (array){
+    const largestNumber = Math.max(...array);
+    return largestNumber;
+};
