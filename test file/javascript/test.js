@@ -1,46 +1,50 @@
-let hello = "Hello, Blu!";
-let nama = prompt("masukkan nama: ");
-let umur = prompt("masukkan umur: ");
-const halo = "Halo, nama saya " + nama + " dan umur saya " + umur;
-for (let i = 1; i <= 10; i++){
-    const numbers = i;
-};
-function factorial(n){
-    let result = 1;
-    for(let i = 2; i <= n; i++){
-        result *= i;
-    }
-    return result;
-};
-let hobi = ['gaming', 'coding', 'mancing', 'makan', 'baca'];
-function looping(array){
-    const start = array.length - 1;;
-    for(let i = 0; i <= start; i++){
-    let result = array[i];
-    console.log(result);
-    };
-};
-let angka = [1, 2 ,3, 4, 5];
-const mapped = angka.map((haha) => {for(let i = 0; i <= 4; i++){
-    let kuadratkan = haha[i] ** 2;
-    return kuadratkan;
-}});
+const inventors = [
+  { first: 'Albert', last: 'Einstein', year: 1879, passed: 1955 },
+  { first: 'Isaac', last: 'Newton', year: 1643, passed: 1727 },
+  { first: 'Galileo', last: 'Galilei', year: 1564, passed: 1642 },
+  { first: 'Marie', last: 'Curie', year: 1867, passed: 1934 },
+  { first: 'Johannes', last: 'Kepler', year: 1571, passed: 1630 },
+  { first: 'Nicolaus', last: 'Copernicus', year: 1473, passed: 1543 },
+  { first: 'Max', last: 'Planck', year: 1858, passed: 1947 },
+];
 
-let mahasiswa = {
-    nama : "Blue",
-    NIM : 241810201017,
-    jurusan : "Fisika murni"
-};
-function averageNumber(array){
-    let result = 0;
-    for (let i = 0; i < array.length; i++){
-        result += array[i];
-    }
-    return result % (array.length - 1);
-};
-const angkaTest = [1, 2, 3, 198, 4, 5];
+const people = ['Beck, Glenn', 'Becker, Carl', 'Beckett, Samuel', 'Beddoes, Mick', 'Beecher, Henry', 'Beethoven, Ludwig', 'Begin, Menachem', 'Belloc, Hilaire', 'Bellow, Saul', 'Benchley, Robert'];
 
-function cariMaksimum (array){
-    const largestNumber = Math.max(...array);
-    return largestNumber;
-};
+const filtered = inventors.filter(inventor => inventor.year >= 1500 && inventor.year < 1600 );
+
+const mapped = inventors.map(inventor => `${inventor.first} ${inventor.last}`);
+
+const sorted= inventors.sort((a, b) => a.year < b.year ? -1 : 1);
+
+const reduced = inventors.reduce((total, inventor) =>{
+    return total + (inventor.passed - inventor.year);
+}, 0);
+
+const sortedAgain = inventors.sort((a, b) => (a.passed - a.year) < (b.passed - b.year) ? -1 : 1);
+
+const lasted = people
+  .map(haha => {
+    const akhir = haha.split(" ");
+    return [akhir[1]];
+  })
+  .sort((a, b) => a[0].localeCompare(b[0]));
+
+const data = ['car', 'car', 'truck', 'bike', 'walk', 'car', 'van', 'bike', 'walk', 'car', 'van', 'car', 'truck'];
+
+const dataReduced = data.reduce((acc, item) =>{
+    acc[item] = (acc[item] || 0) + 1;
+    return acc;
+}, {});
+
+const fiveHundreds = inventors.some(cek => cek.year >= 1500 && cek.year < 1600);
+
+const everest = inventors.every(acc => acc.year > 1400);
+
+const finder = inventors.find(nama => nama.first == 'Galileo');
+
+const hapus = inventors.findIndex(array => array.first == 'Marie')
+if (hapus !== -1){
+    inventors.splice(hapus, 1);
+}
+
+
