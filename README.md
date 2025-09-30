@@ -112,7 +112,7 @@ Semua latihan, proyek, dan pencapaian dikumpulkan di sini sebagai jejak petualan
 | Odin Recipes         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-recipes/) |
 | Landing Page         | Proyek dari TOP Foundations        | [Lihat](https://bluefox192.github.io/odin-landing-page/) |
 | Rock, Paper, and Scissor Game         | Proyek dari TOP Foundations        | [Lihat](https://github.com/Bluefox192/web-dev-journey/tree/master/odinproject/foundations/rock-paper-scissors) |
-| Freecodecamp         | Proyel game role play JS        | [Soon](https://bluefox192.github.io/web-dev-journey/feecodecamp/javascript/Building-Role-Playing-Game) |
+| Freecodecamp         | Proyek game role play JS        | [Soon](https://github.com/Bluefox192/web-dev-journey/tree/master/freecodecamp/javascript/Building-Role-Playing-Game) |
 | Wes Bos Project         | Proyek dari Wes Bos        | [Soon](https://bluefox192.github.io/web-dev-journey) |
 
 ---
